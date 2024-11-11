@@ -6,7 +6,7 @@ namespace Tyuiu.ShabalinaYP.Sprint4.Task1.V11
         static void Main(string[] args)
         {
             DataService ds = new DataService();
-            Console.WriteLine("Спринт #3 | Выполнил: Шабалина Ю. П. | ПКТб-24-1");
+            Console.WriteLine("Спринт #4 | Выполнил: Шабалина Ю. П. | ПКТб-24-1");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #4                                                               *");
             Console.WriteLine("* Тема: Одномерные массивы (статический ввод)                             *");
